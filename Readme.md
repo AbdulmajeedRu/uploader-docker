@@ -1,10 +1,10 @@
 ## Start with
-`docker build . -t react-jeej`
+`docker build . -t group2-up`
 
 -t is for the image tag
 
 ### Then
-`docker run -dt -p 3000:3000 react-jeej`
+`docker run -dt -p 3000:3000 group2-up`
 
 This runs a container on port 3000
 
